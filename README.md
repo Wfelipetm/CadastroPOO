@@ -1,6 +1,12 @@
 ![image](https://github.com/Wfelipetm/MissaoPraticaN1_Mundo3/assets/108297008/262d833e-618d-480c-83cd-8f856715ebd8)
 
 
+
+
+
+
+
+
 #  1 - Título da Prática;
   Iniciando o caminho pelo Java
 --------------------------------------------------------------------------------------------------------------
@@ -41,7 +47,12 @@
 
 👉 1º Procedimento | Criação das Entidades e Sistema de Persistência
 
-![image](https://github.com/Wfelipetm/MissaoPraticaN1_Mundo3/assets/108297008/bdee556e-468d-4f2d-8b5d-0130e89525ee)
+![image](https://github.com/Wfelipetm/MissaoPraticaN1_Mundo3/assets/108297008/1940264d-3d0b-48a1-bfce-6fb35ccf2418)
+
+![image](https://github.com/Wfelipetm/MissaoPraticaN1_Mundo3/assets/108297008/b7c3db42-977f-4161-a01d-f4c6ddfe55d2)
+
+
+
 
 👉 2º Procedimento | Criação do Cadastro em Modo Texto
 
