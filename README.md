@@ -35,3 +35,13 @@
   PessoaJuridicaRepo.java: classe de gerenciamento para entidades de pessoa jurídica, com métodos para inserir, alterar, excluir e dados, 
   além de permanência e recuperação em arquivos.
 
+#  4 - Os resultados da execução dos códigos também devem ser apresentados;
+
+👉 1º Procedimento | Criação das Entidades e Sistema de Persistência
+![image](https://github.com/Wfelipetm/MissaoPraticaN1_Mundo3/assets/108297008/bdee556e-468d-4f2d-8b5d-0130e89525ee)
+
+👉 2º Procedimento | Criação do Cadastro em Modo Texto
+![image](https://github.com/Wfelipetm/MissaoPraticaN1_Mundo3/assets/108297008/f491c90b-7352-4a0e-8332-9dac64c3057d)
+
+
+
