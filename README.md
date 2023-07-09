@@ -33,8 +33,9 @@
   PessoaFisicaRepo.java: classe de gerenciamento para entidades de pessoa física, com métodos para inserir, alterar, excluir e dados,     
   além de persistência e recuperação em arquivos.
 	
-  PessoaJuridicaRepo.java: classe de gerenciamento para entidades de pessoa jurídica, com métodos para inserir, alterar, excluir e dados, 
-  além de permanência e recuperação em arquivos.
+  PessoaJuridicaRepo.java: classe de gerenciamento para entidades de pessoa jurídica, com métodos para inserir, alterar, excluir e 
+  dados, além de permanência e recuperação em arquivos.
+  
 --------------------------------------------------------------------------------------------------------------
 #  4 - Os resultados da execução dos códigos também devem ser apresentados;
 
