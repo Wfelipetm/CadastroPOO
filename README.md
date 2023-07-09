@@ -48,6 +48,7 @@
 👉 1º Procedimento | Criação das Entidades e Sistema de Persistência
 
 ![image](https://github.com/Wfelipetm/MissaoPraticaN1_Mundo3/assets/108297008/1940264d-3d0b-48a1-bfce-6fb35ccf2418)
+
 ![image](https://github.com/Wfelipetm/MissaoPraticaN1_Mundo3/assets/108297008/b7c3db42-977f-4161-a01d-f4c6ddfe55d2)
 
 
