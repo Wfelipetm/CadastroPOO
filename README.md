@@ -38,10 +38,30 @@
 #  4 - Os resultados da execução dos códigos também devem ser apresentados;
 
 👉 1º Procedimento | Criação das Entidades e Sistema de Persistência
+
 ![image](https://github.com/Wfelipetm/MissaoPraticaN1_Mundo3/assets/108297008/bdee556e-468d-4f2d-8b5d-0130e89525ee)
 
 👉 2º Procedimento | Criação do Cadastro em Modo Texto
+
 ![image](https://github.com/Wfelipetm/MissaoPraticaN1_Mundo3/assets/108297008/f491c90b-7352-4a0e-8332-9dac64c3057d)
+
+#  5 - Análise e Conclusão:
+
+a - Quais as vantagens e desvantagens do uso de herança?
+
+Vantagens da herança:
+
+Reutilização de código, extensibilidade, polimorfismo.
+
+
+Desvantagens da herança:
+
+Acoplamento, hierarquia complexa, problemas de herança múltipla e diamante, 
+coesão fraca.
+
+b - Por que a interface Serializable é necessária ao efetuar persistência em arquivos binários?
+
+A interface Serializable é necessária ao efetuar persistência em arquivos binários porque indica que a classe pode ser convertida em bytes e armazenada em disco, permitindo a gravação e recuperação de objetos de forma transparente.
 
 
 
