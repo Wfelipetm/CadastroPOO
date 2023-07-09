@@ -9,6 +9,7 @@
 
 #  1 - Título da Prática;
   Iniciando o caminho pelo Java
+  
 --------------------------------------------------------------------------------------------------------------
 #  2 - Objetivo da Prática;
   Utilizar herança e polimorfismo na  definição de entidades.
@@ -54,7 +55,7 @@
 
 
 
-👉 2º Procedimento | Criação do Cadastro em Modo Texto
+👉 2º Procedimento | Criação do Cadastro em Modo Texto.
 
 ![image](https://github.com/Wfelipetm/MissaoPraticaN1_Mundo3/assets/108297008/f491c90b-7352-4a0e-8332-9dac64c3057d)
 --------------------------------------------------------------------------------------------------------------
