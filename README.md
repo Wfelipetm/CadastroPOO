@@ -60,5 +60,42 @@ b - Por que a interface Serializable é necessária ao efetuar persistência em 
 
 A interface Serializable é necessária ao efetuar persistência em arquivos binários porque indica que a classe pode ser convertida em bytes e armazenada em disco, permitindo a gravação e recuperação de objetos de forma transparente.
 
+c - Como o paradigma funcional é utilizado pela API stream no Java?
+
+A API Stream utiliza o paradigma funcional para manipular coleções de dados de forma concisa e expressiva, usando funções de ordem superior, expressões lambda e operações de redução. 
+
+Isso permite escrever código mais legível, modular e eficiente.
+
+d - Quando trabalhamos com Java, qual padrão de desenvolvimento é adotado na persistência de dados em arquivos?
+
+Ao trabalhar com Java, o padrão de desenvolvimento comumente adotado para a persistência de dados em arquivos é o padrão de Serialização. 
+
+A serialização permite que objetos Java sejam convertidos em uma sequência de bytes e salvos em arquivos, 
+para posterior recuperação e desserialização dos dados. 
+
+e - O que são elementos estáticos e qual o motivo para o método main adotar esse modificador?
+
+Elementos estáticos em Java são membros de uma classe que pertencem à própria classe em vez de pertencerem a instâncias individuais dessa classe. Isso significa que eles são compartilhados por todas as instâncias da classe.
+
+O método main é declarado como estático porque ele precisa ser acessado sem a necessidade de criar uma instância da classe. Como o método main é o ponto de entrada do programa Java, ele é invocado diretamente pela JVM (Java Virtual Machine) antes de qualquer objeto ser criado. 
+
+Portanto, ele precisa ser estático para poder ser chamado sem a necessidade de criar um objeto da classe que o contém.
+
+f - Para que serve a classe Scanner?
+
+A classe Scanner em Java é usada para ler dados de diferentes fontes de entrada, como o teclado (entrada padrão), arquivos ou strings. 
+
+Ela fornece métodos convenientes para ler diferentes tipos de dados, como inteiros, números de ponto flutuante, strings, entre outros.
+
+Com a classe Scanner, você pode ler dados digitados pelo usuário no console, ler dados de um arquivo de texto ou ler dados de uma string, facilitando a interação com o usuário e o processamento de dados em um programa Java.
+
+
+d - Como o uso de classes de repositório impactou na organização do código?
+
+O uso de classes de repositório na organização do código separa a lógica de acesso a dados da lógica de negócios, resultando em um código mais modular e de fácil manutenção.
+
+
+
+
 
 
