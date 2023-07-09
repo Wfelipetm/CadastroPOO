@@ -13,9 +13,9 @@
   
   Utilizar o controle de exceções da plataforma Java.
   
-  No final do projeto, o aluno terá implementado um sistema cadastral em Java,
-  utilizando os recursos da programação orientada a objetos e a persistência em
-  arquivos binários.
+  No final do projeto, o aluno terá implementado um sistema cadastral em Java, utilizando os recursos da programação orientada a objetos 
+  e a persistência em arquivos binários.
+  
 --------------------------------------------------------------------------------------------------------------
 #  3 - Todos os códigos solicitados neste roteiro de aula;
   
