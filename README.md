@@ -2,7 +2,7 @@
 
 #  1 - Título da Prática;
   Iniciando o caminho pelo Java
-
+--------------------------------------------------------------------------------------------------------------
 #  2 - Objetivo da Prática;
   Utilizar herança e polimorfismo na  definição de entidades.
   
@@ -15,7 +15,7 @@
   No final do projeto, o aluno terá implementado um sistema cadastral em Java,
   utilizando os recursos da programação orientada a objetos e a persistência em
   arquivos binários.
-
+--------------------------------------------------------------------------------------------------------------
 #  3 - Todos os códigos solicitados neste roteiro de aula;
   
   CadastroPOO.java: classe principal que contém o método main que interage com o usuário através do console.
@@ -34,7 +34,7 @@
 	
   PessoaJuridicaRepo.java: classe de gerenciamento para entidades de pessoa jurídica, com métodos para inserir, alterar, excluir e dados, 
   além de permanência e recuperação em arquivos.
-
+--------------------------------------------------------------------------------------------------------------
 #  4 - Os resultados da execução dos códigos também devem ser apresentados;
 
 👉 1º Procedimento | Criação das Entidades e Sistema de Persistência
@@ -44,7 +44,7 @@
 👉 2º Procedimento | Criação do Cadastro em Modo Texto
 
 ![image](https://github.com/Wfelipetm/MissaoPraticaN1_Mundo3/assets/108297008/f491c90b-7352-4a0e-8332-9dac64c3057d)
-
+--------------------------------------------------------------------------------------------------------------
 #  5 - Análise e Conclusão:
 
 a - Quais as vantagens e desvantagens do uso de herança?
@@ -52,19 +52,19 @@ a - Quais as vantagens e desvantagens do uso de herança?
 Vantagens da herança:
 Reutilização de código, extensibilidade, polimorfismo.
 
-
+--------------------------------------------------------------------------------------------------------------
 
 Desvantagens da herança:
 Acoplamento, hierarquia complexa, problemas de herança múltipla e diamante, 
 coesão fraca.
 
-
+--------------------------------------------------------------------------------------------------------------
 
 b - Por que a interface Serializable é necessária ao efetuar persistência em arquivos binários?
 
 A interface Serializable é necessária ao efetuar persistência em arquivos binários porque indica que a classe pode ser convertida em bytes e armazenada em disco, permitindo a gravação e recuperação de objetos de forma transparente.
 
-
+--------------------------------------------------------------------------------------------------------------
 
 c - Como o paradigma funcional é utilizado pela API stream no Java?
 
@@ -72,7 +72,7 @@ A API Stream utiliza o paradigma funcional para manipular coleções de dados de
 
 Isso permite escrever código mais legível, modular e eficiente.
 
-
+--------------------------------------------------------------------------------------------------------------
 
 d - Quando trabalhamos com Java, qual padrão de desenvolvimento é adotado na persistência de dados em arquivos?
 
@@ -81,7 +81,7 @@ Ao trabalhar com Java, o padrão de desenvolvimento comumente adotado para a per
 A serialização permite que objetos Java sejam convertidos em uma sequência de bytes e salvos em arquivos, 
 para posterior recuperação e desserialização dos dados. 
 
-
+--------------------------------------------------------------------------------------------------------------
 
 e - O que são elementos estáticos e qual o motivo para o método main adotar esse modificador?
 
@@ -91,7 +91,7 @@ O método main é declarado como estático porque ele precisa ser acessado sem a
 
 Portanto, ele precisa ser estático para poder ser chamado sem a necessidade de criar um objeto da classe que o contém.
 
-
+--------------------------------------------------------------------------------------------------------------
 
 f - Para que serve a classe Scanner?
 
@@ -101,11 +101,13 @@ Ela fornece métodos convenientes para ler diferentes tipos de dados, como intei
 
 Com a classe Scanner, você pode ler dados digitados pelo usuário no console, ler dados de um arquivo de texto ou ler dados de uma string, facilitando a interação com o usuário e o processamento de dados em um programa Java.
 
+--------------------------------------------------------------------------------------------------------------
 
-d - Como o uso de classes de repositório impactou na organização do código?
+g - Como o uso de classes de repositório impactou na organização do código?
 
 O uso de classes de repositório na organização do código separa a lógica de acesso a dados da lógica de negócios, resultando em um código mais modular e de fácil manutenção.
 
+--------------------------------------------------------------------------------------------------------------
 
 
 
