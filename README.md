@@ -50,12 +50,9 @@
 a - Quais as vantagens e desvantagens do uso de herança?
 
 Vantagens da herança:
-
 Reutilização de código, extensibilidade, polimorfismo.
 
-
 Desvantagens da herança:
-
 Acoplamento, hierarquia complexa, problemas de herança múltipla e diamante, 
 coesão fraca.
 
