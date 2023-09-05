@@ -3,14 +3,13 @@
 
 
 
-
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 
 
 #  1 - Título da Prática;
   Iniciando o caminho pelo Java
-  :smile:
-  :fa-car:
   
 --------------------------------------------------------------------------------------------------------------
 #  2 - Objetivo da Prática;
