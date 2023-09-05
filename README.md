@@ -3,13 +3,13 @@
 
 
 
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](https://github.com/Wfelipetm/MissaoPraticaN1_Mundo3/assets/108297008/262d833e-618d-480c-83cd-8f856715ebd8)
+
 
 
 
 #  1 - Título da Prática;
   Iniciando o caminho pelo Java
+
   
 --------------------------------------------------------------------------------------------------------------
 #  2 - Objetivo da Prática;
