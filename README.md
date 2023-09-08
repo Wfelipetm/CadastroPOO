@@ -24,7 +24,7 @@ Semestre Letivo: Terceiro Semestre
 
   
 --------------------------------------------------------------------------------------------------------------
-#  2 - Objetivo da Prática;
+# Objetivo da Prática;
 
   Utilizar herança e polimorfismo na  definição de entidades.
   
@@ -68,7 +68,7 @@ Semestre Letivo: Terceiro Semestre
   dados, além de permanência e recuperação em arquivos.
   
 --------------------------------------------------------------------------------------------------------------
-#  3 - Os resultados da execução dos códigos também devem ser apresentados;
+# Os resultados da execução dos códigos também devem ser apresentados;
 
 👉 1º Procedimento | Criação das Entidades e Sistema de Persistência
 
