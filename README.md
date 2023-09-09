@@ -3,7 +3,7 @@
 
 
 
-
+--------------------------------------------------------------------------------------------------------------
 
 
 
@@ -22,60 +22,18 @@ Disciplina: Nível 1 – Iniciando o caminho pelo Java
 Semestre Letivo: Terceiro Semestre
 
 
-  
---------------------------------------------------------------------------------------------------------------
-# Objetivo da Prática;
-
-  Utilizar herança e polimorfismo na  definição de entidades.
-  
-  Utilizar persistência de objetos em arquivos binários.
-  
-  Implementar uma interface cadastral em modo texto.
-  
-  Utilizar o controle de exceções da plataforma Java.
-  
-  No final do projeto, vc terá implementado um sistema cadastral em Java, utilizando os recursos da programação orientada a objetos 
-  e a persistência em arquivos binários.
-  
---------------------------------------------------------------------------------------------------------------
-
-  
-  ## CadastroPOO 
-  
-  classe principal que contém o método main que interage com o usuário através do console.
-
-  ## Pessoa
-  
-  classe abstrata que representa uma pessoa, com os atributos id e nome, e métodos para exibição e manipulação desses 	 
-  dados.
-  
-  ## PessoaFisica
-  
-  classe que herda de Pessoa e adiciona os atributos cpf e idade, além de métodos específicos.
  
-  ## PessoaJuridica
-  
-  classe que herda de Pessoa e adiciona o atributo cnpj, além de métodos específicos.
-	
-  ## PessoaFisicaRepo
-  
-  classe de gerenciamento para entidades de pessoa física, com métodos para inserir, alterar, excluir e dados,     
-  além de persistência e recuperação em arquivos.
-	
-  ## PessoaJuridicaRepo
-  
-  classe de gerenciamento para entidades de pessoa jurídica, com métodos para inserir, alterar, excluir e 
-  dados, além de permanência e recuperação em arquivos.
   
 --------------------------------------------------------------------------------------------------------------
-# Os resultados da execução dos códigos também devem ser apresentados;
-
+Implementação de um cadastro de clientes em modo texto, com persistência em
+arquivos, baseado na tecnologia Java.
+--------------------------------------------------------------------------------------------------------------
 👉 1º Procedimento | Criação das Entidades e Sistema de Persistência
 
 ![image](https://github.com/Wfelipetm/MissaoPraticaN1_Mundo3/assets/108297008/1940264d-3d0b-48a1-bfce-6fb35ccf2418)
 
 ![image](https://github.com/Wfelipetm/MissaoPraticaN1_Mundo3/assets/108297008/b7c3db42-977f-4161-a01d-f4c6ddfe55d2)
-
+--------------------------------------------------------------------------------------------------------------
 
 
 
