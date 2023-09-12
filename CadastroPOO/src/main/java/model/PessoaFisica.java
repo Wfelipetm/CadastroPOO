@@ -1,6 +1,11 @@
 package model;
-
 import java.io.Serializable;
+
+/*
+
+Autor: Wallace Tavares
+
+*/
 
 public class PessoaFisica implements Serializable {
     private String cpf;

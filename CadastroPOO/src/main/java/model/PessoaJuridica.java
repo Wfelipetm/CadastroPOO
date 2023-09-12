@@ -1,6 +1,11 @@
 package model;
-
 import java.io.Serializable;
+
+/*
+
+Autor: Wallace Tavares
+
+*/
 
 public class PessoaJuridica implements Serializable {
     private String cnpj;

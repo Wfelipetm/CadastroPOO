@@ -1,8 +1,11 @@
 package model;
-
 import java.io.*;
 import java.util.*;
+/*
 
+Autor: Wallace Tavares
+
+*/
 public class PessoaJuridicaRepo {
     private ArrayList<PessoaJuridica> pessoasJuridicas;
     private Iterable<PessoaJuridica> lista;
@@ -122,6 +125,6 @@ public class PessoaJuridicaRepo {
                 return pessoa;
             }
         }
-        return null; // Caso não encontre a pessoa jurídica com o ID especificado
+        return null; 
     }
 }
