@@ -22,6 +22,8 @@ Disciplina: Nível 1 – Iniciando o caminho pelo Java
 Semestre Letivo: Terceiro Semestre
 
 
+### Relatório discente de acompanhamento:
+- [PDF Procedimento 1](https://github.com/Wfelipetm/MissaoPraticaN1_Mundo3/blob/main/Relat%C3%B3rio_N1.pdf)
  
   
 --------------------------------------------------------------------------------------------------------------
