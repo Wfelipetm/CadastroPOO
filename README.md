@@ -1,4 +1,5 @@
-![image](C:\Users\wfeli\Desktop\265780663-41324c9f-57ce-4236-b519-9b10ac00132b.png)
+
+![265780663-41324c9f-57ce-4236-b519-9b10ac00132b](https://github.com/Wfelipetm/MissaoPraticaN1_Mundo3/assets/108297008/716c2530-485b-445d-93be-d1ebf265f9c1)
 
 
 
