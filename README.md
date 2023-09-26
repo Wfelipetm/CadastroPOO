@@ -2,11 +2,6 @@
 Implementação de um cadastro de clientes em modo texto, com persistência em
 arquivos, baseado na tecnologia Java.
 
---------------------------------------------------------------------------------------------------------------
-
-
-### Relatório discente de acompanhamento:
-- [PDF Relatório ](https://github.com/Wfelipetm/MissaoPraticaN1_Mundo3/blob/main/Relat%C3%B3rio_N1.pdf)
 
 --------------------------------------------------------------------------------------------------------------
 Criação das Entidades e Sistema de Persistência
